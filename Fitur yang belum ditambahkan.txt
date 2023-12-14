@@ -2,3 +2,4 @@
 - Background Music dan SFX
 - Score dan Timer
 - Animation
+- Visual Effect
