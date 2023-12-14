@@ -1,0 +1,4 @@
+- Main Menu dan Game Over
+- Background Music dan SFX
+- Score dan Timer
+- Animation
